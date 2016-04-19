@@ -1,17 +1,11 @@
-<!DOCTYPE html>
-<html>
-<meta charset="utf-8">
-<head>
-<style>
-*{
-	margin:0px;
-	padding:0px;
-}
-body{
-    background:url('file:///C:/Users/lixianfeng/Desktop/img/index-bg.jpg') no-repeat fixed top;
-}
-</style>
-</head>
-<body>
-</body>
-</html>
+---
+　　layout: default
+　　title: 我的Blog
+　　---
+　　<h2>{{ page.title }}</h2>
+　　<p>最新文章</p>
+　　<ul>
+　　　　{% for post in site.posts %}
+　　　　　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+　　　　{% endfor %}
+　　</ul>
