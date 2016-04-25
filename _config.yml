@@ -2,12 +2,12 @@
 permalink:        pretty
 
 # Setup
-url:              http://qwtel.com
+url:              lixianfeng.cc
 
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
 baseurl:          ./
 
-title:            Hydejack
+title:            Ervj-boy
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
@@ -19,14 +19,14 @@ description:      >
 sidebar_tags:     [jekyll, hyde]
 
 # Fallback image and color if not overwritten for tag or post
-image:            /hydejack/public/img/nap.jpg
+image:            public/img/nap.jpg
 color:            '#A85641'
 
 author:
-  name:           'Florian Klampfer'
-  twitter:        qwtel
-  github:         qwtel
-  photo:          http://qwtel.com/public/img/flo.jpg
+  name:           'Li Xianfeng'
+  twitter:        
+  github:         https://github.com/li-xianfeng
+  photo:          
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
