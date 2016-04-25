@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog_by_tag
 title: lxf
 tag: JavaScript
 <!--permalink: tag/JavaScript-->
