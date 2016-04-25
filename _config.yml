@@ -14,7 +14,7 @@ description:      >
   Ervj的个人博客.
 
 # The tags listed as entries in the sidebar
-sidebar_tags:     ['JavaScript', 'Others']
+sidebar_tags:     [JavaScript, Others, jekyll, hyde]
 
 # Fallback image and color if not overwritten for tag or post
 image:            ./public/img/nap.jpg
