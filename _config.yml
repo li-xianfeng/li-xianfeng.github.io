@@ -5,7 +5,7 @@ permalink:        pretty
 url:              http://qwtel.com
 
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
-baseurl:          /hydejack
+baseurl:          ./
 
 title:            Hydejack
 
