@@ -1,5 +1,5 @@
 ---
 layout: blog_by_tag
 tag: hyde
-permalink: ./
+permalink: tag/hyde
 ---
