@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: https://li-xianfeng.github.io/public/img/jekyll.jpg
+image: https://li-xianfeng.github.io/public/img/nap.jpg
 ---
 
 {% comment %}
