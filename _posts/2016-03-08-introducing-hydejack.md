@@ -2,7 +2,7 @@
 layout: post
 title: Introducing Hydejack
 tags: [hyde]
-https://li-xianfeng.github.io/public/img/hyde.jpg
+image: https://li-xianfeng.github.io/public/img/hyde.jpg
 ---
 
 <style>
