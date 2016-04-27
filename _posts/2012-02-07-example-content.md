@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example content
-https://li-xianfeng.github.io/public/img/jekyll.jpg
+image: https://li-xianfeng.github.io/public/img/jekyll.jpg
 ---
 
 Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
