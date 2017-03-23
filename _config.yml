@@ -11,10 +11,10 @@ title:            Ervj
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
-  Ervj的个人博客.
+  见贤思齐
 
 # The tags listed as entries in the sidebar
-sidebar_tags:     [JavaScript, Others, jekyll, hyde]
+sidebar_tags:     [JavaScript, Others]
 
 # Fallback image and color if not overwritten for tag or post
 image:            ./public/img/nap.jpg
@@ -22,13 +22,11 @@ color:            '#A85641'
 
 author:
   name:           'Li Xianfeng'
-  twitter:        bZbUq65BA9imjCG
   github:         li-xianfeng
   photo:          
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
-    Hi, I'm Florian or [`@qwtel`](https://www.twitter.com/qwtel), which isn't an acronym,
-    I just [wanted a short username](http://qwtel.com/how-to-find-a-short-username) and that one happened to be available.
+    我是李显锋
 
 theme: jekyll-theme-time-machine
