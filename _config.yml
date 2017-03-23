@@ -30,3 +30,5 @@ author:
   about:          |
     Hi, I'm Florian or [`@qwtel`](https://www.twitter.com/qwtel), which isn't an acronym,
     I just [wanted a short username](http://qwtel.com/how-to-find-a-short-username) and that one happened to be available.
+
+theme: jekyll-theme-time-machine
