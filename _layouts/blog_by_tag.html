@@ -8,7 +8,7 @@ layout: default
   {% comment %}
     Adding the "message" class to the last (and usually only) paragraph of the description.
   {% endcomment %}
-  {% capture desc %}{{ tag.description }}{:.message}{% endcapture %}
+  {% capture desc %}{{ tag.description }}{% endcapture %}
   {{ desc | markdownify }}
 {% endif %}
 <hr/>
