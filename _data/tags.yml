@@ -14,10 +14,14 @@ FE:
   name: FE
   image: https://li-xianfeng.github.io/public/img/hyde.jpg
   color: '#949667'
-  description: 前端相关.
+  description: >
+  前端相关.
+
 
 Others:
   name: Others
   image: https://li-xianfeng.github.io/public/img/jekyll.jpg
   color: '#949667'
-  description: 其他随笔.
+  description: >
+  其他随笔.
+  
