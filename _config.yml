@@ -14,7 +14,7 @@ description:      >
   见贤思齐
 
 # The tags listed as entries in the sidebar
-sidebar_tags:     [JavaScript, Others]
+sidebar_tags:     [前端, Others]
 
 # Fallback image and color if not overwritten for tag or post
 image:            ./public/img/nap.jpg
@@ -27,6 +27,6 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
-    我是李显锋
+    李显锋，2015毕业于四川大学，至今工作于58赶集集团
 
 theme: jekyll-theme-time-machine
