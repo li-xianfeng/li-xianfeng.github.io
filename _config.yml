@@ -27,6 +27,6 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
-    李显锋，2015毕业于四川大学，现就职于58赶集集团
+    [李显锋](https://github.com/li-xianfeng)，2015毕业于[四川大学](http://www.scu.edu.cn/)，现就职于58赶集集团
 
 # theme: jekyll-theme-time-machine
