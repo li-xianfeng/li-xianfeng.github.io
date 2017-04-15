@@ -5,7 +5,7 @@ permalink:        pretty
 url:              lixianfeng.cc
 
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
-baseurl:          https://li-xianfeng.github.io
+# baseurl:          https://li-xianfeng.github.io
 
 title:            Ervj
 
